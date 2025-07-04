@@ -36,12 +36,9 @@ def quit_app():
 button = Button(window,text='Click', command=click)
 button.pack()
 
-
 quit_button = Button(window,text='Close', command=quit_app)
 quit_button.pack()
 
-#label = Label(window,text="this is a test")
-#label.pack()
 
 
 window.mainloop()
