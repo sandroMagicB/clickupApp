@@ -2,6 +2,11 @@
 
 ## DONE:
 - function to get team id
+- get user function
+- debug function
+- reset function
+- close function
 
 ## TODO:
--  function to get folders
+- function to get folders
+- fix timesheet function
